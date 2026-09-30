@@ -1,0 +1,10 @@
+[1mdiff --git a/First.txt b/First.txt[m
+[1mindex 8bfc9d7..6ebc962 100644[m
+[1m--- a/First.txt[m
+[1m+++ b/First.txt[m
+[36m@@ -1 +1,2 @@[m
+[31m-This is the first file.[m
+\ No newline at end of file[m
+[32m+[m[32mThis is the first file.[m
+[32m+[m[32mTake input from users[m[41m [m
+\ No newline at end of file[m
