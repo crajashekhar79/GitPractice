@@ -1,2 +1,5 @@
 This is the first file.
 Git is a very popular Distribute Version Control System. 
+This project creates the user account.
+
+Allowing Users to access the source code of this project.
